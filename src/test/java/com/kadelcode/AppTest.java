@@ -2,12 +2,14 @@ package com.kadelcode;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class AppTest {
 
     @Test
-    void shouldPass() {
-        assertTrue(true);
+    void appCanBeInstantiated() {
+        App app = new App();
+
+        assertNotNull(app);
     }
 }
