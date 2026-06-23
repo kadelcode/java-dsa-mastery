@@ -54,7 +54,7 @@ Examples:
 
 ## 4. Commit Changes
 
-Follow Conventional Commits.
+Follow [Conventional Commits](./conventional-commits.md).
 
 Examples:
 
