@@ -28,7 +28,7 @@ Create a branch from `main`.
 
 Branch naming convention:
 
-feature/<issue-number>-short-description
+<type>/<issue-number>-short-description
 
 Examples:
 
