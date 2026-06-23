@@ -100,19 +100,19 @@ Use meaningful scopes.
 
 Examples:
 
-java
-oop
-arrays
-linkedlist
-stack
-queue
-trees
-graphs
-sorting
-searching
-dp
-docs
-build
+* java
+* oop
+* arrays
+* linkedlist
+* stack
+* queue
+* trees
+* graphs
+* sorting
+* searching
+* dp
+* docs
+* build
 
 ---
 
