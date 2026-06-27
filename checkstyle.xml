@@ -34,7 +34,7 @@
         <module name="NeedBraces"/>
     </module>
 
-    <!-- File Length -->
+    <!-- Line Length -->
     <module name="LineLength">
         <property name="max" value="100"/>
     </module>
